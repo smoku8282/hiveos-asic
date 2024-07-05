@@ -1,0 +1,227 @@
+{"level":"info","tag":"hub","version":"1.11.0.1299291062","release":"stable","build":"1299291062","sha":"baca5554ba2484a65561a34856981d2823301670","pid":8980,"time":"2024-07-03T23:59:44+02:00","message":"starting ASIC Hub v1.11.0.1299291062"}
+{"level":"info","tag":"hub","time":"2024-07-03T23:59:44+02:00","message":"starting http server on \":8800\""}
+{"level":"info","tag":"hub","time":"2024-07-03T23:59:44+02:00","message":"Hub monitoring is not configured yet"}
+{"level":"info","tag":"hub","tag":"arp","time":"2024-07-03T23:59:44+02:00","message":"ARP scanner is disabled"}
+{"level":"info","tag":"hub","tag":"autoscan","time":"2024-07-03T23:59:44+02:00","message":"Autoscan service is disabled"}
+{"level":"info","tag":"monitor:buffer","buffer_size":8,"dangle_check_interval":25000,"time":"2024-07-03T23:59:44+02:00","message":"started stats process buffer"}
+{"level":"info","tag":"ipreport","time":"2024-07-03T23:59:44+02:00","message":"started IP report listener on [::]:14235"}
+{"level":"info","tag":"hub","time":"2024-07-04T00:01:45+02:00","message":"shutting down..."}
+{"level":"info","time":"2024-07-04T00:01:45+02:00","message":"goodbye"}
+{"level":"info","tag":"hub","version":"1.11.0.1299291062","release":"stable","build":"1299291062","sha":"baca5554ba2484a65561a34856981d2823301670","pid":2208,"time":"2024-07-04T00:02:03+02:00","message":"starting ASIC Hub v1.11.0.1299291062"}
+{"level":"info","tag":"hub","time":"2024-07-04T00:02:03+02:00","message":"Hub monitoring is not configured yet"}
+{"level":"info","tag":"hub","tag":"arp","time":"2024-07-04T00:02:03+02:00","message":"ARP scanner is disabled"}
+{"level":"info","tag":"hub","tag":"autoscan","time":"2024-07-04T00:02:03+02:00","message":"Autoscan service is disabled"}
+{"level":"info","tag":"hub","time":"2024-07-04T00:02:03+02:00","message":"starting http server on \":8800\""}
+{"level":"info","tag":"monitor:buffer","buffer_size":8,"dangle_check_interval":25000,"time":"2024-07-04T00:02:03+02:00","message":"started stats process buffer"}
+{"level":"info","tag":"ipreport","time":"2024-07-04T00:02:03+02:00","message":"started IP report listener on [::]:14235"}
+{"level":"info","tag":"setup","rig_id":"9128447","farm_id":3340908,"farm_hash":"c8fbc06c706a640d0a75b4e787c384b5c46dae8e","time":"2024-07-04T00:11:15+02:00","message":"successfully registered Hub on HiveOS farm"}
+{"level":"info","tag":"monitor","time":"2024-07-04T00:11:15+02:00","message":"restarting devices monitor"}
+{"level":"info","tag":"monitor","max_group_size":30,"stats_collect_interval":10000,"time":"2024-07-04T00:11:16+02:00","message":"starting monitor"}
+{"level":"info","tag":"monitor","worker_count":0,"time":"2024-07-04T00:11:16+02:00","message":"started 0 monitoring worker(s)"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T00:11:16+02:00","message":"send hub hello successfully"}
+{"level":"info","tag":"monitor:hub","api_host_urls":["http://api.hiveos.farm","http://msk.hiveos.farm"],"time":"2024-07-04T00:11:16+02:00","message":"received a list of API host urls from Hub hello response"}
+{"level":"info","tag":"clientpool","count":2,"time":"2024-07-04T00:11:16+02:00","message":"updated list of API urls"}
+{"level":"info","farm_hash":"c8fbc06c706a640d0a75b4e787c384b5c46dae8e","time":"2024-07-04T00:23:40+02:00","message":"Hub was already registered before, updating hub registration"}
+{"level":"info","tag":"monitor","time":"2024-07-04T00:23:40+02:00","message":"Stopping monitor..."}
+{"level":"info","tag":"monitor","time":"2024-07-04T00:23:40+02:00","message":"monitor stopped"}
+{"level":"info","tag":"setup","rig_id":"9128447","farm_id":3340908,"farm_hash":"c8fbc06c706a640d0a75b4e787c384b5c46dae8e","time":"2024-07-04T00:23:41+02:00","message":"successfully registered Hub on HiveOS farm"}
+{"level":"info","tag":"monitor","time":"2024-07-04T00:23:41+02:00","message":"restarting devices monitor"}
+{"level":"info","tag":"monitor","max_group_size":30,"stats_collect_interval":10000,"time":"2024-07-04T00:23:42+02:00","message":"starting monitor"}
+{"level":"info","tag":"monitor","worker_count":0,"time":"2024-07-04T00:23:42+02:00","message":"started 0 monitoring worker(s)"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T00:23:43+02:00","message":"send hub hello successfully"}
+{"level":"info","tag":"monitor:hub","api_host_urls":["http://api.hiveos.farm","http://api2msk.hiveos.farm"],"time":"2024-07-04T00:23:43+02:00","message":"received a list of API host urls from Hub hello response"}
+{"level":"info","tag":"clientpool","count":2,"time":"2024-07-04T00:23:43+02:00","message":"updated list of API urls"}
+{"level":"info","time":"2024-07-04T00:26:19+02:00","message":"received restart request"}
+{"level":"info","tag":"monitor","time":"2024-07-04T00:26:20+02:00","message":"monitor stopped"}
+{"level":"info","tag":"hub","time":"2024-07-04T00:26:20+02:00","message":"shutting down..."}
+{"level":"info","time":"2024-07-04T00:26:20+02:00","message":"restarting ASIC Hub..."}
+{"level":"info","tag":"hub","version":"1.11.0.1299291062","release":"stable","build":"1299291062","sha":"baca5554ba2484a65561a34856981d2823301670","pid":2208,"time":"2024-07-04T00:26:20+02:00","message":"starting ASIC Hub v1.11.0.1299291062"}
+{"level":"info","tag":"hub","tag":"arp","time":"2024-07-04T00:26:20+02:00","message":"ARP scanner is disabled"}
+{"level":"info","tag":"hub","tag":"autoscan","time":"2024-07-04T00:26:20+02:00","message":"Autoscan service is disabled"}
+{"level":"info","tag":"hub","time":"2024-07-04T00:26:20+02:00","message":"starting http server on \":8800\""}
+{"level":"info","tag":"hub","time":"2024-07-04T00:26:20+02:00","message":"Hub is configured, starting monitoring..."}
+{"level":"info","tag":"monitor","max_group_size":30,"stats_collect_interval":10000,"time":"2024-07-04T00:26:20+02:00","message":"starting monitor"}
+{"level":"info","tag":"ipreport","time":"2024-07-04T00:26:20+02:00","message":"started IP report listener on [::]:14235"}
+{"level":"info","tag":"monitor:buffer","buffer_size":8,"dangle_check_interval":25000,"time":"2024-07-04T00:26:20+02:00","message":"started stats process buffer"}
+{"level":"info","tag":"monitor","worker_count":0,"time":"2024-07-04T00:26:20+02:00","message":"started 0 monitoring worker(s)"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T00:26:20+02:00","message":"send hub hello successfully"}
+{"level":"info","tag":"monitor:hub","api_host_urls":["http://api.hiveos.farm","http://naw.hiveos.farm"],"time":"2024-07-04T00:26:20+02:00","message":"received a list of API host urls from Hub hello response"}
+{"level":"info","tag":"clientpool","count":2,"time":"2024-07-04T00:26:20+02:00","message":"updated list of API urls"}
+{"level":"info","tag":"monitor","time":"2024-07-04T00:26:57+02:00","message":"restarting devices monitor"}
+{"level":"info","tag":"monitor","time":"2024-07-04T00:26:57+02:00","message":"Stopping monitor..."}
+{"level":"info","tag":"settings","delta":{"workerNameSource":"hostname"},"time":"2024-07-04T00:26:57+02:00","message":"settings successfully updated"}
+{"level":"info","tag":"monitor","time":"2024-07-04T00:26:57+02:00","message":"monitor stopped"}
+{"level":"info","tag":"monitor","max_group_size":30,"stats_collect_interval":10000,"time":"2024-07-04T00:26:58+02:00","message":"starting monitor"}
+{"level":"info","tag":"monitor","worker_count":0,"time":"2024-07-04T00:26:58+02:00","message":"started 0 monitoring worker(s)"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T00:26:58+02:00","message":"send hub hello successfully"}
+{"level":"info","tag":"monitor:hub","api_host_urls":["http://api.hiveos.farm","http://api2msk.hiveos.farm"],"time":"2024-07-04T00:26:58+02:00","message":"received a list of API host urls from Hub hello response"}
+{"level":"info","tag":"clientpool","count":2,"time":"2024-07-04T00:26:58+02:00","message":"updated list of API urls"}
+{"level":"info","tag":"monitor:hub","command":"config","time":"2024-07-04T00:40:39+02:00","message":"running Hub command \"config\""}
+{"level":"info","tag":"hubcmd","command":"config","args":{"command":"config","confseq":1,"config":"API_HOST_URLs=\"http://api.hiveos.farm http://msk.hiveos.farm\"\nFARM_ID=\"3340908\"\nHIVE_HOST_URL=\"http://api.hiveos.farm\"\nHSSH_SRV=\"shell.hiveos.farm\"\nMINER2=\"\"\nMINER=\"claymore\"\nRIG_ID=\"9128447\"\nRIG_PASSWD=\"kS15NgmJ\"\nTIMEZONE=\"Europe/Warsaw\"\nWD_ENABLED=\"0\"\nWORKER_NAME=\"DESKTOP-5H8O2GA\"","wallet":null,"exec":""},"time":"2024-07-04T00:40:39+02:00","message":"received a new command for Hub"}
+{"level":"info","tag":"hubcmd","old_urls":["http://api.hiveos.farm","http://api2msk.hiveos.farm"],"new_urls":["http://api.hiveos.farm","http://msk.hiveos.farm"],"time":"2024-07-04T00:40:39+02:00","message":"server API url list updated"}
+{"level":"info","tag":"clientpool","count":2,"time":"2024-07-04T00:40:39+02:00","message":"updated list of API urls"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T00:40:39+02:00","message":"send reply to command"}
+{"level":"info","tag":"monitor:hub","command":"exec","time":"2024-07-04T02:02:19+02:00","message":"running Hub command \"exec\""}
+{"level":"info","tag":"hubcmd","command":"exec","args":{"command":"exec","config":null,"wallet":null,"exec":"hello"},"time":"2024-07-04T02:02:19+02:00","message":"received a new command for Hub"}
+{"level":"warn","error":"unsupported command: \"hello\"","tag":"monitor:hub","command":"exec","time":"2024-07-04T02:02:19+02:00","message":"command returned an error"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T02:02:19+02:00","message":"send reply to command"}
+{"level":"info","tag":"monitor:hub","command":"config","time":"2024-07-04T02:03:19+02:00","message":"running Hub command \"config\""}
+{"level":"info","tag":"hubcmd","command":"config","args":{"command":"config","confseq":2,"config":"API_HOST_URLs=\"https://api.hiveos.farm:8443 http://ap.hiveos.farm\"\nFARM_ID=\"3340908\"\nHIVE_HOST_URL=\"https://api.hiveos.farm:8443\"\nHSSH_SRV=\"shell.hiveos.farm\"\nMINER2=\"\"\nMINER=\"claymore\"\nRIG_ID=\"9128447\"\nRIG_PASSWD=\"kS15NgmJ\"\nTIMEZONE=\"Europe/Warsaw\"\nWD_ENABLED=\"0\"\nWORKER_NAME=\"DESKTOP-5H8O2GA\"","wallet":null,"exec":""},"time":"2024-07-04T02:03:19+02:00","message":"received a new command for Hub"}
+{"level":"info","tag":"hubcmd","old_urls":["http://api.hiveos.farm","http://msk.hiveos.farm"],"new_urls":["https://api.hiveos.farm:8443","http://ap.hiveos.farm"],"time":"2024-07-04T02:03:19+02:00","message":"server API url list updated"}
+{"level":"info","tag":"clientpool","count":2,"time":"2024-07-04T02:03:19+02:00","message":"updated list of API urls"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T02:03:19+02:00","message":"send reply to command"}
+{"level":"info","tag":"monitor:hub","command":"exec","time":"2024-07-04T02:03:49+02:00","message":"running Hub command \"exec\""}
+{"level":"info","tag":"hubcmd","command":"exec","args":{"command":"exec","config":null,"wallet":null,"exec":"c8fbc06c706a640d0a75b4e787c384b5c46dae8e"},"time":"2024-07-04T02:03:49+02:00","message":"received a new command for Hub"}
+{"level":"warn","error":"unsupported command: \"c8fbc06c706a640d0a75b4e787c384b5c46dae8e\"","tag":"monitor:hub","command":"exec","time":"2024-07-04T02:03:49+02:00","message":"command returned an error"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T02:03:49+02:00","message":"send reply to command"}
+{"level":"info","tag":"monitor:hub","command":"exec","time":"2024-07-04T02:04:09+02:00","message":"running Hub command \"exec\""}
+{"level":"info","tag":"hubcmd","command":"exec","args":{"command":"exec","config":null,"wallet":null,"exec":"hello"},"time":"2024-07-04T02:04:09+02:00","message":"received a new command for Hub"}
+{"level":"warn","error":"unsupported command: \"hello\"","tag":"monitor:hub","command":"exec","time":"2024-07-04T02:04:09+02:00","message":"command returned an error"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T02:04:09+02:00","message":"send reply to command"}
+{"level":"info","tag":"monitor:hub","command":"exec","time":"2024-07-04T02:04:29+02:00","message":"running Hub command \"exec\""}
+{"level":"info","tag":"hubcmd","command":"exec","args":{"command":"exec","config":null,"wallet":null,"exec":"miner log"},"time":"2024-07-04T02:04:29+02:00","message":"received a new command for Hub"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T02:04:29+02:00","message":"send reply to command"}
+{"level":"info","tag":"monitor:hub","command":"config","time":"2024-07-04T02:06:09+02:00","message":"running Hub command \"config\""}
+{"level":"info","tag":"hubcmd","command":"config","args":{"command":"config","confseq":3,"config":"API_HOST_URLs=\"http://api.hiveos.farm http://paris.hiveos.farm\"\nFARM_ID=\"3340908\"\nHIVE_HOST_URL=\"http://api.hiveos.farm\"\nHSSH_SRV=\"shell.hiveos.farm\"\nMINER2=\"\"\nMINER=\"claymore\"\nRIG_ID=\"9128447\"\nRIG_PASSWD=\"kS15NgmJ\"\nTIMEZONE=\"Europe/Warsaw\"\nWD_ENABLED=\"0\"\nWORKER_NAME=\"DESKTOP-5H8O2GA\"","wallet":null,"exec":""},"time":"2024-07-04T02:06:09+02:00","message":"received a new command for Hub"}
+{"level":"info","tag":"hubcmd","old_urls":["https://api.hiveos.farm:8443","http://ap.hiveos.farm"],"new_urls":["http://api.hiveos.farm","http://paris.hiveos.farm"],"time":"2024-07-04T02:06:09+02:00","message":"server API url list updated"}
+{"level":"info","tag":"clientpool","count":2,"time":"2024-07-04T02:06:09+02:00","message":"updated list of API urls"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T02:06:09+02:00","message":"send reply to command"}
+{"level":"info","tag":"monitor:hub","command":"exec","time":"2024-07-04T02:06:49+02:00","message":"running Hub command \"exec\""}
+{"level":"info","tag":"hubcmd","command":"exec","args":{"command":"exec","config":null,"wallet":null,"exec":"hello"},"time":"2024-07-04T02:06:49+02:00","message":"received a new command for Hub"}
+{"level":"warn","error":"unsupported command: \"hello\"","tag":"monitor:hub","command":"exec","time":"2024-07-04T02:06:49+02:00","message":"command returned an error"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T02:06:49+02:00","message":"send reply to command"}
+{"level":"info","tag":"monitor","time":"2024-07-04T02:29:06+02:00","message":"monitor stopped"}
+{"level":"info","tag":"hub","time":"2024-07-04T02:29:06+02:00","message":"shutting down..."}
+{"level":"info","time":"2024-07-04T02:29:06+02:00","message":"goodbye"}
+{"level":"info","tag":"hub","version":"1.11.0.1299291062","release":"stable","build":"1299291062","sha":"baca5554ba2484a65561a34856981d2823301670","pid":3140,"time":"2024-07-04T02:29:36+02:00","message":"starting ASIC Hub v1.11.0.1299291062"}
+{"level":"info","tag":"hub","tag":"arp","time":"2024-07-04T02:29:36+02:00","message":"ARP scanner is disabled"}
+{"level":"info","tag":"hub","tag":"autoscan","time":"2024-07-04T02:29:36+02:00","message":"Autoscan service is disabled"}
+{"level":"info","tag":"hub","time":"2024-07-04T02:29:36+02:00","message":"starting http server on \":8800\""}
+{"level":"info","tag":"hub","time":"2024-07-04T02:29:36+02:00","message":"Hub is configured, starting monitoring..."}
+{"level":"info","tag":"monitor","max_group_size":30,"stats_collect_interval":10000,"time":"2024-07-04T02:29:36+02:00","message":"starting monitor"}
+{"level":"info","tag":"ipreport","time":"2024-07-04T02:29:36+02:00","message":"started IP report listener on [::]:14235"}
+{"level":"info","tag":"monitor","worker_count":0,"time":"2024-07-04T02:29:36+02:00","message":"started 0 monitoring worker(s)"}
+{"level":"info","tag":"monitor:buffer","buffer_size":8,"dangle_check_interval":25000,"time":"2024-07-04T02:29:36+02:00","message":"started stats process buffer"}
+{"level":"warn","error":"failed to send hello: WorkerAPI - failed to send request: Post \"http://api.hiveos.farm/worker/api\": dial tcp: lookup api.hiveos.farm: no such host (server: http://api.hiveos.farm)","tag":"monitor:hub","time":"2024-07-04T02:29:37+02:00","message":"failed to send Hub hello"}
+{"level":"warn","error":"invalid character '<' looking for beginning of value","tag":"scanner","ip":"192.168.8.1","prober":{"kind":"ANTMINER_VNISH","label":"Bitmain AntMiner Vnish"},"time":"2024-07-04T03:46:16+02:00","message":"error during probe 192.168.8.1"}
+{"level":"warn","tag:prober":"ebit E12+","ip":"192.168.8.1","tag":"ebit E12+","error":"context deadline exceeded","time":"2024-07-04T03:46:32+02:00","message":"failed to get oid mapping"}
+{"level":"warn","tag":"ebit","ip":"192.168.8.1","time":"2024-07-04T03:46:32+02:00","message":"unexpected redirect URL after login: user/login"}
+{"level":"warn","error":"invalid character '<' looking for beginning of value","tag":"scanner","ip":"192.168.8.1","prober":{"kind":"EBANG_EBIT_E9_GENERIC","label":"Ebang"},"time":"2024-07-04T03:46:32+02:00","message":"error during probe 192.168.8.1"}
+{"level":"warn","tag":"cheetah","ip":"192.168.8.1","time":"2024-07-04T03:46:32+02:00","message":"unexpected redirect URL after login: index.php/app/login"}
+{"level":"warn","error":"invalid character '<' looking for beginning of value","tag":"scanner","ip":"192.168.8.1","prober":{"kind":"CHEETAH_GENERIC","label":"Cheetah"},"time":"2024-07-04T03:46:32+02:00","message":"error during probe 192.168.8.1"}
+{"level":"warn","error":"connect error (dial tcp 192.168.8.1:4028: connectex: Nie można nawiązać połączenia, ponieważ komputer docelowy aktywnie go odmawia.)","tag":"ipollo:prober","ip":"192.168.8.1","time":"2024-07-04T03:46:33+02:00","message":"cgminer miner info api call failed"}
+{"level":"warn","tag":"scanner","worker":2,"ip":"192.168.8.1","error":"192.168.8.1: invalid character '<' looking for beginning of value\n192.168.8.1: invalid character '<' looking for beginning of value\n192.168.8.1: invalid character '<' looking for beginning of value\n192.168.8.1: unsupported device\n","time":"2024-07-04T03:46:34+02:00","message":"failed to probe the device"}
+{"level":"info","time":"2024-07-04T03:48:48+02:00","message":"received restart request"}
+{"level":"info","tag":"hub","time":"2024-07-04T03:48:49+02:00","message":"shutting down..."}
+{"level":"info","tag":"monitor","time":"2024-07-04T03:48:49+02:00","message":"monitor stopped"}
+{"level":"info","time":"2024-07-04T03:48:49+02:00","message":"restarting ASIC Hub..."}
+{"level":"info","tag":"hub","version":"1.11.0.1299291062","release":"stable","build":"1299291062","sha":"baca5554ba2484a65561a34856981d2823301670","pid":3140,"time":"2024-07-04T03:48:49+02:00","message":"starting ASIC Hub v1.11.0.1299291062"}
+{"level":"info","tag":"hub","tag":"autoscan","time":"2024-07-04T03:48:49+02:00","message":"Autoscan service is disabled"}
+{"level":"info","tag":"hub","time":"2024-07-04T03:48:49+02:00","message":"starting http server on \":8800\""}
+{"level":"info","tag":"hub","time":"2024-07-04T03:48:49+02:00","message":"Hub is configured, starting monitoring..."}
+{"level":"info","tag":"monitor","max_group_size":30,"stats_collect_interval":10000,"time":"2024-07-04T03:48:49+02:00","message":"starting monitor"}
+{"level":"warn","error":"ARP cache is not available at windows/amd64","tag":"arp","time":"2024-07-04T03:48:49+02:00","message":"failed to read OS ARP cache"}
+{"level":"info","tag":"ipreport","time":"2024-07-04T03:48:49+02:00","message":"started IP report listener on [::]:14235"}
+{"level":"info","tag":"monitor","worker_count":0,"time":"2024-07-04T03:48:49+02:00","message":"started 0 monitoring worker(s)"}
+{"level":"info","tag":"monitor:buffer","buffer_size":8,"dangle_check_interval":25000,"time":"2024-07-04T03:48:49+02:00","message":"started stats process buffer"}
+{"level":"info","tag":"arp","nic":"Ethernet","time":"2024-07-04T03:48:49+02:00","message":"starting scanner on \"Ethernet\""}
+{"level":"warn","error":"couldn't load wpcap.dll","tag":"arp","nic":"Ethernet","time":"2024-07-04T03:48:49+02:00","message":"failed to start ARP scan on \"Ethernet\""}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T03:48:50+02:00","message":"send hub hello successfully"}
+{"level":"info","tag":"monitor:hub","api_host_urls":["http://api.hiveos.farm","http://naw.hiveos.farm"],"time":"2024-07-04T03:48:50+02:00","message":"received a list of API host urls from Hub hello response"}
+{"level":"info","tag":"clientpool","count":2,"time":"2024-07-04T03:48:50+02:00","message":"updated list of API urls"}
+{"level":"error","error":"192.168.8.1: 192.168.8.1: invalid character '<' looking for beginning of value\n192.168.8.1: invalid character '<' looking for beginning of value\n192.168.8.1: invalid character '<' looking for beginning of value\n192.168.8.1: unsupported device\n\n","tag":"rpc","method":"Scan","time":"2024-07-04T03:49:22+02:00","message":"error on scan"}
+{"level":"info","tag":"hub","version":"1.11.0.1299291062","release":"stable","build":"1299291062","sha":"baca5554ba2484a65561a34856981d2823301670","pid":9028,"time":"2024-07-04T04:07:35+02:00","message":"starting ASIC Hub v1.11.0.1299291062"}
+{"level":"info","tag":"hub","time":"2024-07-04T04:07:35+02:00","message":"starting http server on \":8800\""}
+{"level":"info","tag":"hub","tag":"autoscan","time":"2024-07-04T04:07:35+02:00","message":"Autoscan service is disabled"}
+{"level":"info","tag":"hub","time":"2024-07-04T04:07:35+02:00","message":"Hub is configured, starting monitoring..."}
+{"level":"info","tag":"monitor","max_group_size":30,"stats_collect_interval":10000,"time":"2024-07-04T04:07:35+02:00","message":"starting monitor"}
+{"level":"warn","error":"ARP cache is not available at windows/amd64","tag":"arp","time":"2024-07-04T04:07:35+02:00","message":"failed to read OS ARP cache"}
+{"level":"info","tag":"monitor:buffer","buffer_size":8,"dangle_check_interval":25000,"time":"2024-07-04T04:07:35+02:00","message":"started stats process buffer"}
+{"level":"info","tag":"monitor","worker_count":0,"time":"2024-07-04T04:07:35+02:00","message":"started 0 monitoring worker(s)"}
+{"level":"fatal","tag":"hub","error":"listen tcp :8800: bind: Tylko jedno użycie każdego adresu gniazda (protokół/adres sieciowy/port) jest normalnie dozwolone.","time":"2024-07-04T04:07:35+02:00","message":"listen tcp :8800: bind: Tylko jedno użycie każdego adresu gniazda (protokół/adres sieciowy/port) jest normalnie dozwolone."}
+{"level":"info","tag":"hub","version":"1.11.0.1299291062","release":"stable","build":"1299291062","sha":"baca5554ba2484a65561a34856981d2823301670","pid":6948,"time":"2024-07-04T04:08:26+02:00","message":"starting ASIC Hub v1.11.0.1299291062"}
+{"level":"info","tag":"hub","time":"2024-07-04T04:08:26+02:00","message":"starting http server on \":8800\""}
+{"level":"info","tag":"hub","tag":"autoscan","time":"2024-07-04T04:08:26+02:00","message":"Autoscan service is disabled"}
+{"level":"info","tag":"hub","time":"2024-07-04T04:08:26+02:00","message":"Hub is configured, starting monitoring..."}
+{"level":"warn","error":"ARP cache is not available at windows/amd64","tag":"arp","time":"2024-07-04T04:08:26+02:00","message":"failed to read OS ARP cache"}
+{"level":"info","tag":"monitor","max_group_size":30,"stats_collect_interval":10000,"time":"2024-07-04T04:08:26+02:00","message":"starting monitor"}
+{"level":"info","tag":"monitor:buffer","buffer_size":8,"dangle_check_interval":25000,"time":"2024-07-04T04:08:26+02:00","message":"started stats process buffer"}
+{"level":"info","tag":"monitor","worker_count":0,"time":"2024-07-04T04:08:26+02:00","message":"started 0 monitoring worker(s)"}
+{"level":"fatal","tag":"hub","error":"listen tcp :8800: bind: Tylko jedno użycie każdego adresu gniazda (protokół/adres sieciowy/port) jest normalnie dozwolone.","time":"2024-07-04T04:08:26+02:00","message":"listen tcp :8800: bind: Tylko jedno użycie każdego adresu gniazda (protokół/adres sieciowy/port) jest normalnie dozwolone."}
+{"level":"info","time":"2024-07-04T04:15:20+02:00","message":"received restart request"}
+{"level":"info","tag":"monitor","time":"2024-07-04T04:15:21+02:00","message":"monitor stopped"}
+{"level":"info","tag":"hub","time":"2024-07-04T04:15:21+02:00","message":"shutting down..."}
+{"level":"info","time":"2024-07-04T04:15:21+02:00","message":"restarting ASIC Hub..."}
+{"level":"info","tag":"hub","version":"1.11.0.1299291062","release":"stable","build":"1299291062","sha":"baca5554ba2484a65561a34856981d2823301670","pid":3140,"time":"2024-07-04T04:15:21+02:00","message":"starting ASIC Hub v1.11.0.1299291062"}
+{"level":"info","tag":"hub","tag":"arp","time":"2024-07-04T04:15:21+02:00","message":"ARP scanner is disabled"}
+{"level":"info","tag":"hub","tag":"autoscan","time":"2024-07-04T04:15:21+02:00","message":"Autoscan service is disabled"}
+{"level":"info","tag":"hub","time":"2024-07-04T04:15:21+02:00","message":"starting http server on \":8800\""}
+{"level":"info","tag":"hub","time":"2024-07-04T04:15:21+02:00","message":"Hub is configured, starting monitoring..."}
+{"level":"info","tag":"monitor","max_group_size":30,"stats_collect_interval":10000,"time":"2024-07-04T04:15:21+02:00","message":"starting monitor"}
+{"level":"info","tag":"ipreport","time":"2024-07-04T04:15:21+02:00","message":"started IP report listener on [::]:14235"}
+{"level":"info","tag":"monitor:buffer","buffer_size":8,"dangle_check_interval":25000,"time":"2024-07-04T04:15:21+02:00","message":"started stats process buffer"}
+{"level":"info","tag":"monitor","worker_count":0,"time":"2024-07-04T04:15:21+02:00","message":"started 0 monitoring worker(s)"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T04:15:22+02:00","message":"send hub hello successfully"}
+{"level":"info","tag":"monitor:hub","api_host_urls":["http://api.hiveos.farm","http://paris.hiveos.farm"],"time":"2024-07-04T04:15:22+02:00","message":"received a list of API host urls from Hub hello response"}
+{"level":"info","tag":"clientpool","count":2,"time":"2024-07-04T04:15:22+02:00","message":"updated list of API urls"}
+{"level":"info","tag":"update","time":"2024-07-04T04:16:05+02:00","message":"update channel changed to \"beta\""}
+{"level":"info","tag":"monitor","time":"2024-07-04T04:16:10+02:00","message":"Stopping monitor..."}
+{"level":"info","tag":"update","package":{"version":"1.12.0.1335431152-beta.1","build":"1335431152","type":"beta","artifact":{"url":"https://download.hiveos.farm/hub/beta/1335431152/hub-windows-amd64.zip","md5":"cccddde3e02bf42e7fe7990364aebe16","type":"zip"}},"time":"2024-07-04T04:16:10+02:00","message":"upgrade process started"}
+{"level":"info","tag":"monitor","time":"2024-07-04T04:16:10+02:00","message":"monitor stopped"}
+{"level":"info","tag":"update","url":"https://download.hiveos.farm/hub/beta/1335431152/hub-windows-amd64.zip","size":12849685,"time":"2024-07-04T04:16:10+02:00","message":"started package download"}
+{"level":"info","tag":"update","time":"2024-07-04T04:16:12+02:00","message":"package verified, installing package..."}
+{"level":"info","tag":"installer","time":"2024-07-04T04:16:12+02:00","message":"creating temporary directory 'C:\\WINDOWS\\TEMP\\asic-hub-update'"}
+{"level":"info","tag":"installer","installer_path":"C:\\WINDOWS\\TEMP\\asic-hub-update\\asic-hub-setup.exe","cmdline":"C:\\WINDOWS\\TEMP\\asic-hub-update\\asic-hub-setup.exe /VERYSILENT /SUPPRESSMSGBOXES /ALLUSERS /CLOSEAPPLICATIONS /RESTARTAPPLICATIONS /LOG=C:\\WINDOWS\\TEMP\\asic-hub-update\\setup.log","time":"2024-07-04T04:16:12+02:00","message":"installer extracted, starting installation..."}
+{"level":"info","tag":"update","time":"2024-07-04T04:16:12+02:00","message":"upgrade finished, reboot in 10s"}
+{"level":"info","tag":"hub","time":"2024-07-04T04:16:13+02:00","message":"shutting down..."}
+{"level":"info","time":"2024-07-04T04:16:13+02:00","message":"goodbye"}
+{"level":"info","tag":"hub","version":"1.12.0.1335431152-beta.1","release":"beta","build":"1335431152","sha":"a9966462335756f01e529c993ebf0f586c9ef144","pid":8212,"time":"2024-07-04T04:16:15+02:00","message":"starting ASIC Hub v1.12.0.1335431152-beta.1"}
+{"level":"info","tag":"hub","time":"2024-07-04T04:16:15+02:00","message":"starting http server on \":8800\""}
+{"level":"info","tag":"hub","tag":"arp","time":"2024-07-04T04:16:15+02:00","message":"Tasker service is disabled"}
+{"level":"info","tag":"hub","tag":"arp","time":"2024-07-04T04:16:15+02:00","message":"ARP scanner is disabled"}
+{"level":"info","tag":"hub","tag":"autoscan","time":"2024-07-04T04:16:15+02:00","message":"Autoscan service is disabled"}
+{"level":"info","tag":"hub","time":"2024-07-04T04:16:15+02:00","message":"Hub is configured, starting monitoring..."}
+{"level":"info","tag":"monitor","max_group_size":30,"stats_collect_interval":10000,"time":"2024-07-04T04:16:15+02:00","message":"starting monitor"}
+{"level":"info","tag":"monitor:buffer","buffer_size":8,"dangle_check_interval":25000,"time":"2024-07-04T04:16:15+02:00","message":"started stats process buffer"}
+{"level":"info","tag":"ipreport","time":"2024-07-04T04:16:15+02:00","message":"started IP report listener on [::]:14235"}
+{"level":"info","tag":"monitor","worker_count":0,"time":"2024-07-04T04:16:15+02:00","message":"started 0 monitoring worker(s)"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T04:16:17+02:00","message":"send hub hello successfully"}
+{"level":"info","tag":"monitor:hub","api_host_urls":["http://api.hiveos.farm","http://msk.hiveos.farm"],"time":"2024-07-04T04:16:17+02:00","message":"received a list of API host urls from Hub hello response"}
+{"level":"info","tag":"clientpool","count":2,"time":"2024-07-04T04:16:17+02:00","message":"updated list of API urls"}
+{"level":"info","tag":"monitor:hub","command":"config","time":"2024-07-04T04:23:27+02:00","message":"running Hub command \"config\""}
+{"level":"info","tag":"hubcmd","command":"config","args":{"command":"config","confseq":4,"config":"API_HOST_URLs=\"http://helsinki.hiveos.farm:8000 http://api.hiveos.farm\"\nFARM_ID=\"3340908\"\nHIVE_HOST_URL=\"http://helsinki.hiveos.farm:8000\"\nHSSH_SRV=\"shell.hiveos.farm\"\nMINER2=\"\"\nMINER=\"claymore\"\nRIG_ID=\"9128447\"\nRIG_PASSWD=\"kS15NgmJ\"\nTIMEZONE=\"Europe/Warsaw\"\nWD_ENABLED=\"0\"\nWORKER_NAME=\"DESKTOP-5H8O2GA\"","wallet":null,"exec":""},"time":"2024-07-04T04:23:27+02:00","message":"received a new command for Hub"}
+{"level":"info","tag":"hubcmd","old_urls":["http://api.hiveos.farm","http://msk.hiveos.farm"],"new_urls":["http://helsinki.hiveos.farm:8000","http://api.hiveos.farm"],"time":"2024-07-04T04:23:27+02:00","message":"server API url list updated"}
+{"level":"info","tag":"clientpool","count":2,"time":"2024-07-04T04:23:27+02:00","message":"updated list of API urls"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T04:23:27+02:00","message":"send reply to command"}
+{"level":"info","tag":"monitor:hub","command":"exec","time":"2024-07-04T04:23:47+02:00","message":"running Hub command \"exec\""}
+{"level":"info","tag":"hubcmd","command":"exec","args":{"command":"exec","config":null,"wallet":null,"exec":"hello"},"time":"2024-07-04T04:23:47+02:00","message":"received a new command for Hub"}
+{"level":"warn","error":"unsupported command: \"hello\"","tag":"monitor:hub","command":"exec","time":"2024-07-04T04:23:47+02:00","message":"command returned an error"}
+{"level":"info","tag":"monitor:hub","time":"2024-07-04T04:23:47+02:00","message":"send reply to command"}
+{"level":"info","tag":"monitor","time":"2024-07-04T04:52:01+02:00","message":"monitor stopped"}
+{"level":"info","tag":"hub","time":"2024-07-04T04:52:01+02:00","message":"shutting down..."}
+{"level":"info","time":"2024-07-04T04:52:01+02:00","message":"goodbye"}
+{"level":"info","tag":"hub","version":"1.12.0.1335431152-beta.1","release":"beta","build":"1335431152","sha":"a9966462335756f01e529c993ebf0f586c9ef144","pid":3276,"time":"2024-07-04T04:52:32+02:00","message":"starting ASIC Hub v1.12.0.1335431152-beta.1"}
+{"level":"info","tag":"hub","tag":"arp","time":"2024-07-04T04:52:32+02:00","message":"Tasker service is disabled"}
+{"level":"info","tag":"hub","tag":"arp","time":"2024-07-04T04:52:32+02:00","message":"ARP scanner is disabled"}
+{"level":"info","tag":"hub","tag":"autoscan","time":"2024-07-04T04:52:32+02:00","message":"Autoscan service is disabled"}
+{"level":"info","tag":"hub","time":"2024-07-04T04:52:32+02:00","message":"starting http server on \":8800\""}
+{"level":"info","tag":"hub","time":"2024-07-04T04:52:32+02:00","message":"Hub is configured, starting monitoring..."}
+{"level":"info","tag":"monitor","max_group_size":30,"stats_collect_interval":10000,"time":"2024-07-04T04:52:32+02:00","message":"starting monitor"}
+{"level":"info","tag":"ipreport","time":"2024-07-04T04:52:32+02:00","message":"started IP report listener on [::]:14235"}
+{"level":"info","tag":"monitor","worker_count":0,"time":"2024-07-04T04:52:32+02:00","message":"started 0 monitoring worker(s)"}
+{"level":"info","tag":"monitor:buffer","buffer_size":8,"dangle_check_interval":25000,"time":"2024-07-04T04:52:32+02:00","message":"started stats process buffer"}
+{"level":"warn","error":"failed to send hello: WorkerAPI - failed to send request: Post \"http://api.hiveos.farm/worker/api\": dial tcp: lookup api.hiveos.farm: no such host (server: http://api.hiveos.farm)","tag":"monitor:hub","time":"2024-07-04T04:52:32+02:00","message":"failed to send Hub hello"}
+{"level":"info","tag":"monitor","time":"2024-07-04T05:12:43+02:00","message":"monitor stopped"}
+{"level":"info","tag":"hub","time":"2024-07-04T05:12:43+02:00","message":"shutting down..."}
+{"level":"info","time":"2024-07-04T05:12:43+02:00","message":"goodbye"}
+{"level":"info","tag":"hub","version":"1.12.0.1335431152-beta.1","release":"beta","build":"1335431152","sha":"a9966462335756f01e529c993ebf0f586c9ef144","pid":3212,"time":"2024-07-04T16:59:48+02:00","message":"starting ASIC Hub v1.12.0.1335431152-beta.1"}
+{"level":"info","tag":"hub","tag":"arp","time":"2024-07-04T16:59:48+02:00","message":"Tasker service is disabled"}
+{"level":"info","tag":"hub","time":"2024-07-04T16:59:48+02:00","message":"starting http server on \":8800\""}
+{"level":"info","tag":"hub","tag":"arp","time":"2024-07-04T16:59:48+02:00","message":"ARP scanner is disabled"}
+{"level":"info","tag":"hub","tag":"autoscan","time":"2024-07-04T16:59:48+02:00","message":"Autoscan service is disabled"}
+{"level":"info","tag":"hub","time":"2024-07-04T16:59:48+02:00","message":"Hub is configured, starting monitoring..."}
+{"level":"info","tag":"monitor","max_group_size":30,"stats_collect_interval":10000,"time":"2024-07-04T16:59:48+02:00","message":"starting monitor"}
+{"level":"info","tag":"ipreport","time":"2024-07-04T16:59:48+02:00","message":"started IP report listener on [::]:14235"}
+{"level":"info","tag":"monitor","worker_count":0,"time":"2024-07-04T16:59:48+02:00","message":"started 0 monitoring worker(s)"}
+{"level":"info","tag":"monitor:buffer","buffer_size":8,"dangle_check_interval":25000,"time":"2024-07-04T16:59:48+02:00","message":"started stats process buffer"}
+{"level":"warn","error":"failed to send hello: WorkerAPI - failed to send request: Post \"http://api.hiveos.farm/worker/api\": dial tcp: lookup api.hiveos.farm: no such host (server: http://api.hiveos.farm)","tag":"monitor:hub","time":"2024-07-04T16:59:48+02:00","message":"failed to send Hub hello"}
